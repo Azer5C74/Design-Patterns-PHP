@@ -1,3 +1,9 @@
+/*
+This is an example of strategy pattern usage written in php.
+It helps to encapsulate a family of algorithms that perform similar functions.
+Here we tried encapsulating various logging methods to an interface and making them interchangeable.
+*/
+
 <?php
 
 // Defining a family of algorithms
