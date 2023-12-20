@@ -1,3 +1,10 @@
+/*
+This is an example of decorator pattern usage written in php.
+We tried to add functionalities costs and descriptions dynamically
+without breaking the open-closed principle and modifying the basic inspection class.
+*/
+
+
 <?php
 
 
