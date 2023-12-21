@@ -15,14 +15,14 @@ Each design pattern has its dedicated branch. Switch between branches to delve i
 ``` 
 git clone https://github.com/Azer5C74/Design-Patterns-PHP.git
 ```
-3. Explore Design Patterns:
+2. Explore Design Patterns:
 
 Switch to a specific branch to explore the implementation of a particular design pattern.
 
 ```
 git checkout <branch name>
 ```
-4. Learn and Contribute:
+3. Learn and Contribute:
 
 Read through the code and accompanying documentation.
 Experiment with variations or contribute your own examples.
