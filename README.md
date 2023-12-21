@@ -13,7 +13,7 @@ Each design pattern has its dedicated branch. Switch between branches to delve i
 ## Getting Started
 1. Clone the Repository:
 ``` 
-git clohttps://github.com/Azer5C74/Design-Patterns-PHP.git
+git clone https://github.com/Azer5C74/Design-Patterns-PHP.git
 ```
 3. Explore Design Patterns:
 
@@ -26,3 +26,9 @@ git checkout <branch name>
 
 Read through the code and accompanying documentation.
 Experiment with variations or contribute your own examples.
+
+## Contributions
+Contributions are highly encouraged! If you have additional examples, improvements, or new design patterns to add, please fork the repository, make your changes, and submit a pull request.
+
+Happy coding and exploring design patterns in PHP! 🌟
+
